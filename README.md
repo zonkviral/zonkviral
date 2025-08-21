@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Frontend Developer</h1>
 
 ### ⚡ Passionate developer & tech explorer, blending creativity with logic to build impactful projects.
-### 🚀 Currently exploring AI, while mastering TypeScript, and NodeJS.
 ---
 ## 🧩 Competitive Programming
 
@@ -15,9 +14,9 @@
 
 ### 🧰 Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,redux,html,css,scss,tailwind,bootstrap,mysql,postgresql,mongodb,prisma,docker,git,github,vscode,npm,vite,webpack,gulp,jest,postman,graphql,raspberrypi,linux,kali"/>
-</p>
+  <a href="https://leetcode.com/u/zonkviral/">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,redux,html,css,scss,tailwind,bootstrap,mysql,postgresql,mongodb,prisma,docker,git,github,vscode,npm,vite,webpack,gulp,jest,postman,graphql,raspberrypi,linux,kali"/>
+  </a>
 
 ---
 
