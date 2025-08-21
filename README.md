@@ -7,16 +7,18 @@
 ## 🧩 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/zonkviral?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/zonkviral/">
+    <img src="https://leetcard.jacoblin.cool/zonkviral?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
 
 ### 🧰 Skills
 
-  <a href="https://leetcode.com/u/zonkviral/">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,redux,html,css,scss,tailwind,bootstrap,mysql,postgresql,mongodb,prisma,docker,git,github,vscode,npm,vite,webpack,gulp,jest,postman,graphql,raspberrypi,linux,kali"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,redux,html,css,scss,tailwind,bootstrap,mysql,postgresql,mongodb,prisma,docker,git,github,vscode,npm,vite,webpack,gulp,jest,postman,graphql,raspberrypi,linux,kali"/>
+</p>
 
 ---
 
