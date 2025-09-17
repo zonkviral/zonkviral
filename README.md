@@ -33,7 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zonkviral&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonkviral&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+</p> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
